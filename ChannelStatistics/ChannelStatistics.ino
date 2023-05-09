@@ -9,8 +9,8 @@
 
 char ssid[] = "Rumah_witjaksono";       // your network SSID (name)
 char password[] = "SarangEdii";  // your network key
-#define API_KEY "AIzaSyDg3__EQqyj2dy7AsQLmccKZR9uOH0pCOw"  // your google apps API Token
-#define CHANNEL_ID "UClg17BImdKKGVncnuQJrozQ" // makes up the url of channel
+#define API_KEY "Your_API_KEY"  // your google apps API Token
+#define CHANNEL_ID "YOUR_ID CHANNEL" // makes up the url of channel
 
 WiFiClientSecure client;
 YoutubeApi api(API_KEY, client);
